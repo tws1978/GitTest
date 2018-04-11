@@ -11,6 +11,7 @@ namespace MyConsoleApp
         static void Main(string[] args)
         {
             // another change in GitHub
+            // another change now from VS
         }
     }
 }
