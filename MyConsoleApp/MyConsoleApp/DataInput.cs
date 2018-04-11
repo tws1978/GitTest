@@ -9,7 +9,7 @@ namespace MyConsoleApp
     public class DataInput
     {
 
-
+        // some code from Data Input branche
 
     }
 }
